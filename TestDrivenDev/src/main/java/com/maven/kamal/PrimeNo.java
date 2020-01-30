@@ -4,6 +4,7 @@ public class PrimeNo {
 	
 	public static boolean checkPrime(int n) { 
 	int i,m=0; //,flag=0;  //flag = 0 means by default its prime    
+	int y =0;
 	boolean flag = true;
 	  m=n/2;  
 	  
